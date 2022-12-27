@@ -87,52 +87,10 @@ pred = model.predict(acc_df)
 centers = model.cluster_centers_
 cent = pd.DataFrame(centers, columns=['lat', 'long'])
 
-
-# folium 지도 시각화. 21년에 발생한 대구의 보행자사고를 3개의 군집으로 분류
+# center와 cluster dataframe을 저장
 clusters = acc_df
 clusters['cluster'] = pred
 
-map_dg = folium.Map(location=[35.8714354,128.601445], zoom_start=12)
-folium.TileLayer('cartodbpositron').add_to(map_dg)
-colors=['blue', 'green', 'gray']
-
-for i in range(len(clusters.cluster.unique())): # k-means 로 설정한 수만큼 돌림
-    sub_df = clusters[clusters['cluster']==i]
-    for lat,long, num in zip(sub_df.lat, sub_df.long, sub_df.cluster):
-        folium.features.CircleMarker(
-            [lat, long],
-            radius=3,
-            color=colors[i%10],
-            popup=[num, lat, long],
-            fill=True,
-            fill_color=colors[i%10],
-            fill_opacity=0.6
-        ).add_to(map_dg)
-
-for lat,long in zip(cent.lat, cent.long): # cluster center
-    folium.features.CircleMarker(
-        [lat, long],
-        radius=3,
-        color='red',
-        fill=True,
-        popup=[lat,long],
-        fill_color='red',
-        fill_opacity=0.6
-    ).add_to(map_dg)
-
-map_dg
-
-
-# folium 지도 시각화로 섬세 군집 분류
-map_dg2 = folium.Map(location=[35.8714354,128.601445], zoom_start=12)
-
-accidents = plugins.MarkerCluster().add_to(map_dg2)
-
-for lat,long in zip(acc_df.lat, acc_df.long):
-    folium.Marker(
-        location=[lat, long],
-        icon=None
-    ).add_to(accidents)
-
-map_dg2
+# cent.to_csv('../데이터/acc_centers.csv')
+# clusters.to_csv('../데이터/acc_cluster.csv')
 
