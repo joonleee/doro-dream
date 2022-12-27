@@ -1,0 +1,3287 @@
+
+
+
+
+
+
+
+
+	
+
+<!DOCTYPE html PUBLIC "-//W3C//DTD HTML 4.01 Transitional//EN" "http://www.w3.org/TR/html4/loose.dtd">
+<html>
+<head>
+<meta http-equiv="Content-Type" content="text/html; charset=UTF-8">
+<title>Insert title here</title>
+</head>
+<body>
+
+
+
+
+
+
+
+
+
+<style type="text/css">
+table {width:100%;border-top:1px solid #737678;}
+td {border:1px solid #cccccc;text-align:center;vertical-align:middle;}
+.format-text-excel {mso-number-format:\@;}
+</style>
+
+<h></h>
+<table id="tableAllAcdntInfoList">
+	<colgroup>
+		<col width="40px;" />
+		<col width="103px;" />
+		<col width="135px;" />
+		<col width="55px;" />
+		<col width="190px;" />
+		<col width="85px;" />
+		<col width="60px;" />
+		<col width="60px" />
+		<col width="60px;" />
+		<col width="75px;" />
+		<col width="150px;" />
+		<col width="150px;" />
+		<col width="110px;" />
+		<col width="60px;" />
+		<col width="150px" />
+		<col width="60px;" />
+		<col width="60px;" />
+		<col width="60px;" />
+		<col width="75px;" />
+		<col width="60px;" />
+		<col width="60px;" />
+		<col width="60px" />
+		<col width="75px;" />
+		
+	</colgroup>
+	<thead>
+		<tr bgcolor="#ebf2f7">
+			
+			
+			<th>사고번호</th>
+			<th>사고일시</th>
+			<th>요일</th>
+			<th>시군구</th>
+			
+			<th>사고내용</th>
+			<th>사망자수</th>
+			<th>중상자수</th>
+			<th>경상자수</th>
+			<th>부상신고자수</th>
+			<th>사고유형</th>
+			<th>법규위반</th>
+			<th>노면상태</th>
+			<th>기상상태</th>
+			<th>도로형태</th>
+			<th>가해운전자 차종</th>
+			<th>가해운전자 성별</th>
+			<th>가해운전자 연령</th>
+			<th>가해운전자 상해정도</th>
+			<th>피해운전자 차종</th>
+			<th>피해운전자 성별</th>
+			<th>피해운전자 연령</th>
+			<th>피해운전자 상해정도</th>
+			
+		</tr>
+	</thead>
+	<tbody>
+		
+			<tr>
+				
+				
+					<td class="format-text-excel">2021010800100387</td>
+					<td>2021년  1월  8일 18시</td>
+					<td>금요일</td>
+					<td>세종특별자치시  금남면</td>
+				
+					<td>경상사고</td>
+					<td>0</td>
+					<td>0</td>
+					<td>1</td>
+					<td>0</td>
+					<td>차대사람 - 기타</td>
+					<td>안전운전불이행</td>
+					<td>포장 - 적설</td>
+					<td>맑음</td>
+					<td>교차로 - 교차로안</td>
+					<td>승용</td>
+					<td>남</td>
+					<td>61세</td>
+					<td>상해없음</td>
+					<td>보행자</td>
+					<td>남</td>
+					<td>10세</td>
+					<td>경상</td>
+				
+			</tr>
+		
+			<tr>
+				
+				
+					<td class="format-text-excel">2021010800100388</td>
+					<td>2021년  1월  8일 18시</td>
+					<td>금요일</td>
+					<td>세종특별자치시  조치원읍</td>
+				
+					<td>중상사고</td>
+					<td>0</td>
+					<td>1</td>
+					<td>0</td>
+					<td>0</td>
+					<td>차대사람 - 차도통행중</td>
+					<td>보행자보호의무위반</td>
+					<td>포장 - 적설</td>
+					<td>흐림</td>
+					<td>단일로 - 기타</td>
+					<td>승합</td>
+					<td>남</td>
+					<td>22세</td>
+					<td>상해없음</td>
+					<td>보행자</td>
+					<td>여</td>
+					<td>71세</td>
+					<td>중상</td>
+				
+			</tr>
+		
+			<tr>
+				
+				
+					<td class="format-text-excel">2021011100100523</td>
+					<td>2021년  1월 11일 21시</td>
+					<td>월요일</td>
+					<td>세종특별자치시  어진동</td>
+				
+					<td>중상사고</td>
+					<td>0</td>
+					<td>1</td>
+					<td>0</td>
+					<td>0</td>
+					<td>차대사람 - 횡단중</td>
+					<td>보행자보호의무위반</td>
+					<td>포장 - 건조</td>
+					<td>기타</td>
+					<td>교차로 - 교차로횡단보도내</td>
+					<td>승용</td>
+					<td>남</td>
+					<td>57세</td>
+					<td>상해없음</td>
+					<td>보행자</td>
+					<td>남</td>
+					<td>37세</td>
+					<td>중상</td>
+				
+			</tr>
+		
+			<tr>
+				
+				
+					<td class="format-text-excel">2021011900100295</td>
+					<td>2021년  1월 19일 14시</td>
+					<td>화요일</td>
+					<td>세종특별자치시  전동면</td>
+				
+					<td>사망사고</td>
+					<td>1</td>
+					<td>0</td>
+					<td>0</td>
+					<td>0</td>
+					<td>차대사람 - 기타</td>
+					<td>안전운전불이행</td>
+					<td>포장 - 건조</td>
+					<td>맑음</td>
+					<td>단일로 - 기타</td>
+					<td>화물</td>
+					<td>남</td>
+					<td>31세</td>
+					<td>상해없음</td>
+					<td>보행자</td>
+					<td>여</td>
+					<td>74세</td>
+					<td>사망</td>
+				
+			</tr>
+		
+			<tr>
+				
+				
+					<td class="format-text-excel">2021012700100112</td>
+					<td>2021년  1월 27일 09시</td>
+					<td>수요일</td>
+					<td>세종특별자치시  연동면</td>
+				
+					<td>경상사고</td>
+					<td>0</td>
+					<td>0</td>
+					<td>1</td>
+					<td>0</td>
+					<td>차대사람 - 기타</td>
+					<td>안전운전불이행</td>
+					<td>포장 - 건조</td>
+					<td>맑음</td>
+					<td>단일로 - 기타</td>
+					<td>화물</td>
+					<td>남</td>
+					<td>45세</td>
+					<td>상해없음</td>
+					<td>보행자</td>
+					<td>남</td>
+					<td>27세</td>
+					<td>경상</td>
+				
+			</tr>
+		
+			<tr>
+				
+				
+					<td class="format-text-excel">2021020800100550</td>
+					<td>2021년  2월  8일 19시</td>
+					<td>월요일</td>
+					<td>세종특별자치시  어진동</td>
+				
+					<td>경상사고</td>
+					<td>0</td>
+					<td>0</td>
+					<td>2</td>
+					<td>0</td>
+					<td>차대사람 - 횡단중</td>
+					<td>신호위반</td>
+					<td>포장 - 건조</td>
+					<td>맑음</td>
+					<td>교차로 - 교차로안</td>
+					<td>승용</td>
+					<td>남</td>
+					<td>25세</td>
+					<td>상해없음</td>
+					<td>보행자</td>
+					<td>여</td>
+					<td>29세</td>
+					<td>경상</td>
+				
+			</tr>
+		
+			<tr>
+				
+				
+					<td class="format-text-excel">2021020900100096</td>
+					<td>2021년  2월  9일 08시</td>
+					<td>화요일</td>
+					<td>세종특별자치시  조치원읍</td>
+				
+					<td>경상사고</td>
+					<td>0</td>
+					<td>0</td>
+					<td>1</td>
+					<td>0</td>
+					<td>차대사람 - 보도통행중</td>
+					<td>안전운전불이행</td>
+					<td>포장 - 건조</td>
+					<td>맑음</td>
+					<td>교차로 - 교차로안</td>
+					<td>승용</td>
+					<td>남</td>
+					<td>28세</td>
+					<td>상해없음</td>
+					<td>보행자</td>
+					<td>남</td>
+					<td>22세</td>
+					<td>경상</td>
+				
+			</tr>
+		
+			<tr>
+				
+				
+					<td class="format-text-excel">2021021000100761</td>
+					<td>2021년  2월 10일 23시</td>
+					<td>수요일</td>
+					<td>세종특별자치시  다정동</td>
+				
+					<td>경상사고</td>
+					<td>0</td>
+					<td>0</td>
+					<td>1</td>
+					<td>0</td>
+					<td>차대사람 - 횡단중</td>
+					<td>보행자보호의무위반</td>
+					<td>포장 - 건조</td>
+					<td>맑음</td>
+					<td>교차로 - 교차로횡단보도내</td>
+					<td>승용</td>
+					<td>여</td>
+					<td>26세</td>
+					<td>상해없음</td>
+					<td>보행자</td>
+					<td>여</td>
+					<td>50세</td>
+					<td>경상</td>
+				
+			</tr>
+		
+			<tr>
+				
+				
+					<td class="format-text-excel">2021021900100530</td>
+					<td>2021년  2월 19일 18시</td>
+					<td>금요일</td>
+					<td>세종특별자치시  고운동</td>
+				
+					<td>경상사고</td>
+					<td>0</td>
+					<td>0</td>
+					<td>1</td>
+					<td>0</td>
+					<td>차대사람 - 횡단중</td>
+					<td>안전운전불이행</td>
+					<td>포장 - 건조</td>
+					<td>맑음</td>
+					<td>단일로 - 기타</td>
+					<td>개인형이동수단(PM)</td>
+					<td>남</td>
+					<td>35세</td>
+					<td>상해없음</td>
+					<td>보행자</td>
+					<td>남</td>
+					<td>68세</td>
+					<td>경상</td>
+				
+			</tr>
+		
+			<tr>
+				
+				
+					<td class="format-text-excel">2021022200100034</td>
+					<td>2021년  2월 22일 06시</td>
+					<td>월요일</td>
+					<td>세종특별자치시  대평동</td>
+				
+					<td>경상사고</td>
+					<td>0</td>
+					<td>0</td>
+					<td>1</td>
+					<td>0</td>
+					<td>차대사람 - 횡단중</td>
+					<td>보행자보호의무위반</td>
+					<td>포장 - 건조</td>
+					<td>맑음</td>
+					<td>교차로 - 교차로횡단보도내</td>
+					<td>승용</td>
+					<td>여</td>
+					<td>57세</td>
+					<td>상해없음</td>
+					<td>보행자</td>
+					<td>남</td>
+					<td>32세</td>
+					<td>경상</td>
+				
+			</tr>
+		
+			<tr>
+				
+				
+					<td class="format-text-excel">2021022800100032</td>
+					<td>2021년  2월 28일 03시</td>
+					<td>일요일</td>
+					<td>세종특별자치시  연동면</td>
+				
+					<td>경상사고</td>
+					<td>0</td>
+					<td>0</td>
+					<td>1</td>
+					<td>0</td>
+					<td>차대사람 - 차도통행중</td>
+					<td>안전운전불이행</td>
+					<td>포장 - 건조</td>
+					<td>맑음</td>
+					<td>단일로 - 지하차도(도로)내</td>
+					<td>승합</td>
+					<td>남</td>
+					<td>52세</td>
+					<td>상해없음</td>
+					<td>보행자</td>
+					<td>남</td>
+					<td>25세</td>
+					<td>경상</td>
+				
+			</tr>
+		
+			<tr>
+				
+				
+					<td class="format-text-excel">2021030200100370</td>
+					<td>2021년  3월  2일 17시</td>
+					<td>화요일</td>
+					<td>세종특별자치시  다정동</td>
+				
+					<td>중상사고</td>
+					<td>0</td>
+					<td>1</td>
+					<td>0</td>
+					<td>0</td>
+					<td>차대사람 - 횡단중</td>
+					<td>신호위반</td>
+					<td>포장 - 건조</td>
+					<td>맑음</td>
+					<td>교차로 - 교차로안</td>
+					<td>승용</td>
+					<td>남</td>
+					<td>46세</td>
+					<td>상해없음</td>
+					<td>보행자</td>
+					<td>여</td>
+					<td>12세</td>
+					<td>중상</td>
+				
+			</tr>
+		
+			<tr>
+				
+				
+					<td class="format-text-excel">2021030500100613</td>
+					<td>2021년  3월  5일 23시</td>
+					<td>금요일</td>
+					<td>세종특별자치시  조치원읍</td>
+				
+					<td>경상사고</td>
+					<td>0</td>
+					<td>0</td>
+					<td>1</td>
+					<td>0</td>
+					<td>차대사람 - 기타</td>
+					<td>안전운전불이행</td>
+					<td>포장 - 건조</td>
+					<td>맑음</td>
+					<td>단일로 - 기타</td>
+					<td>승합</td>
+					<td>남</td>
+					<td>45세</td>
+					<td>상해없음</td>
+					<td>보행자</td>
+					<td>남</td>
+					<td>63세</td>
+					<td>경상</td>
+				
+			</tr>
+		
+			<tr>
+				
+				
+					<td class="format-text-excel">2021030700100319</td>
+					<td>2021년  3월  7일 19시</td>
+					<td>일요일</td>
+					<td>세종특별자치시  조치원읍</td>
+				
+					<td>중상사고</td>
+					<td>0</td>
+					<td>1</td>
+					<td>0</td>
+					<td>0</td>
+					<td>차대사람 - 횡단중</td>
+					<td>보행자보호의무위반</td>
+					<td>포장 - 건조</td>
+					<td>맑음</td>
+					<td>교차로 - 교차로안</td>
+					<td>이륜</td>
+					<td>남</td>
+					<td>56세</td>
+					<td>상해없음</td>
+					<td>보행자</td>
+					<td>남</td>
+					<td>70세</td>
+					<td>중상</td>
+				
+			</tr>
+		
+			<tr>
+				
+				
+					<td class="format-text-excel">2021032300100454</td>
+					<td>2021년  3월 23일 18시</td>
+					<td>화요일</td>
+					<td>세종특별자치시  도담동</td>
+				
+					<td>중상사고</td>
+					<td>0</td>
+					<td>1</td>
+					<td>0</td>
+					<td>0</td>
+					<td>차대사람 - 기타</td>
+					<td>안전운전불이행</td>
+					<td>포장 - 건조</td>
+					<td>맑음</td>
+					<td>단일로 - 기타</td>
+					<td>승합</td>
+					<td>남</td>
+					<td>56세</td>
+					<td>상해없음</td>
+					<td>보행자</td>
+					<td>여</td>
+					<td>47세</td>
+					<td>중상</td>
+				
+			</tr>
+		
+			<tr>
+				
+				
+					<td class="format-text-excel">2021032400100447</td>
+					<td>2021년  3월 24일 18시</td>
+					<td>수요일</td>
+					<td>세종특별자치시  보람동</td>
+				
+					<td>경상사고</td>
+					<td>0</td>
+					<td>0</td>
+					<td>1</td>
+					<td>0</td>
+					<td>차대사람 - 보도통행중</td>
+					<td>안전운전불이행</td>
+					<td>포장 - 건조</td>
+					<td>맑음</td>
+					<td>단일로 - 기타</td>
+					<td>승용</td>
+					<td>여</td>
+					<td>31세</td>
+					<td>상해없음</td>
+					<td>보행자</td>
+					<td>남</td>
+					<td>19세</td>
+					<td>경상</td>
+				
+			</tr>
+		
+			<tr>
+				
+				
+					<td class="format-text-excel">2021040200100142</td>
+					<td>2021년  4월  2일 09시</td>
+					<td>금요일</td>
+					<td>세종특별자치시  조치원읍</td>
+				
+					<td>중상사고</td>
+					<td>0</td>
+					<td>1</td>
+					<td>0</td>
+					<td>0</td>
+					<td>차대사람 - 횡단중</td>
+					<td>보행자보호의무위반</td>
+					<td>포장 - 건조</td>
+					<td>맑음</td>
+					<td>교차로 - 교차로안</td>
+					<td>승합</td>
+					<td>남</td>
+					<td>73세</td>
+					<td>상해없음</td>
+					<td>보행자</td>
+					<td>여</td>
+					<td>72세</td>
+					<td>중상</td>
+				
+			</tr>
+		
+			<tr>
+				
+				
+					<td class="format-text-excel">2021040600100285</td>
+					<td>2021년  4월  6일 14시</td>
+					<td>화요일</td>
+					<td>세종특별자치시  조치원읍</td>
+				
+					<td>경상사고</td>
+					<td>0</td>
+					<td>0</td>
+					<td>1</td>
+					<td>0</td>
+					<td>차대사람 - 기타</td>
+					<td>안전운전불이행</td>
+					<td>포장 - 건조</td>
+					<td>맑음</td>
+					<td>단일로 - 기타</td>
+					<td>승용</td>
+					<td>여</td>
+					<td>49세</td>
+					<td>상해없음</td>
+					<td>보행자</td>
+					<td>여</td>
+					<td>65세</td>
+					<td>경상</td>
+				
+			</tr>
+		
+			<tr>
+				
+				
+					<td class="format-text-excel">2021040600100445</td>
+					<td>2021년  4월  6일 18시</td>
+					<td>화요일</td>
+					<td>세종특별자치시  고운동</td>
+				
+					<td>중상사고</td>
+					<td>0</td>
+					<td>1</td>
+					<td>0</td>
+					<td>1</td>
+					<td>차대사람 - 기타</td>
+					<td>신호위반</td>
+					<td>포장 - 건조</td>
+					<td>맑음</td>
+					<td>교차로 - 교차로안</td>
+					<td>이륜</td>
+					<td>남</td>
+					<td>17세</td>
+					<td>부상신고</td>
+					<td>보행자</td>
+					<td>남</td>
+					<td>10세</td>
+					<td>중상</td>
+				
+			</tr>
+		
+			<tr>
+				
+				
+					<td class="format-text-excel">2021040600100569</td>
+					<td>2021년  4월  6일 22시</td>
+					<td>화요일</td>
+					<td>세종특별자치시  나성동</td>
+				
+					<td>중상사고</td>
+					<td>0</td>
+					<td>1</td>
+					<td>0</td>
+					<td>0</td>
+					<td>차대사람 - 횡단중</td>
+					<td>보행자보호의무위반</td>
+					<td>포장 - 건조</td>
+					<td>맑음</td>
+					<td>기타 - 기타</td>
+					<td>승용</td>
+					<td>남</td>
+					<td>54세</td>
+					<td>상해없음</td>
+					<td>보행자</td>
+					<td>남</td>
+					<td>40세</td>
+					<td>중상</td>
+				
+			</tr>
+		
+			<tr>
+				
+				
+					<td class="format-text-excel">2021040600100570</td>
+					<td>2021년  4월  6일 22시</td>
+					<td>화요일</td>
+					<td>세종특별자치시  다정동</td>
+				
+					<td>중상사고</td>
+					<td>0</td>
+					<td>1</td>
+					<td>0</td>
+					<td>0</td>
+					<td>차대사람 - 횡단중</td>
+					<td>안전운전불이행</td>
+					<td>포장 - 건조</td>
+					<td>맑음</td>
+					<td>교차로 - 교차로안</td>
+					<td>승용</td>
+					<td>남</td>
+					<td>53세</td>
+					<td>상해없음</td>
+					<td>보행자</td>
+					<td>남</td>
+					<td>31세</td>
+					<td>중상</td>
+				
+			</tr>
+		
+			<tr>
+				
+				
+					<td class="format-text-excel">2021040700100141</td>
+					<td>2021년  4월  7일 09시</td>
+					<td>수요일</td>
+					<td>세종특별자치시  전동면</td>
+				
+					<td>경상사고</td>
+					<td>0</td>
+					<td>0</td>
+					<td>1</td>
+					<td>0</td>
+					<td>차대사람 - 횡단중</td>
+					<td>안전운전불이행</td>
+					<td>포장 - 건조</td>
+					<td>맑음</td>
+					<td>교차로 - 교차로안</td>
+					<td>승용</td>
+					<td>남</td>
+					<td>61세</td>
+					<td>상해없음</td>
+					<td>보행자</td>
+					<td>여</td>
+					<td>84세</td>
+					<td>경상</td>
+				
+			</tr>
+		
+			<tr>
+				
+				
+					<td class="format-text-excel">2021040700100551</td>
+					<td>2021년  4월  7일 19시</td>
+					<td>수요일</td>
+					<td>세종특별자치시  조치원읍</td>
+				
+					<td>중상사고</td>
+					<td>0</td>
+					<td>1</td>
+					<td>0</td>
+					<td>0</td>
+					<td>차대사람 - 차도통행중</td>
+					<td>안전운전불이행</td>
+					<td>포장 - 건조</td>
+					<td>맑음</td>
+					<td>교차로 - 교차로부근</td>
+					<td>승용</td>
+					<td>여</td>
+					<td>42세</td>
+					<td>상해없음</td>
+					<td>보행자</td>
+					<td>남</td>
+					<td>66세</td>
+					<td>중상</td>
+				
+			</tr>
+		
+			<tr>
+				
+				
+					<td class="format-text-excel">2021040800100544</td>
+					<td>2021년  4월  8일 19시</td>
+					<td>목요일</td>
+					<td>세종특별자치시  나성동</td>
+				
+					<td>경상사고</td>
+					<td>0</td>
+					<td>0</td>
+					<td>1</td>
+					<td>0</td>
+					<td>차대사람 - 횡단중</td>
+					<td>보행자보호의무위반</td>
+					<td>포장 - 건조</td>
+					<td>맑음</td>
+					<td>교차로 - 교차로안</td>
+					<td>기타불명</td>
+					<td>기타불명</td>
+					<td>미분류</td>
+					<td>기타불명</td>
+					<td>보행자</td>
+					<td>남</td>
+					<td>33세</td>
+					<td>경상</td>
+				
+			</tr>
+		
+			<tr>
+				
+				
+					<td class="format-text-excel">2021040900100285</td>
+					<td>2021년  4월  9일 13시</td>
+					<td>금요일</td>
+					<td>세종특별자치시  장군면</td>
+				
+					<td>중상사고</td>
+					<td>0</td>
+					<td>1</td>
+					<td>0</td>
+					<td>0</td>
+					<td>차대사람 - 차도통행중</td>
+					<td>안전운전불이행</td>
+					<td>포장 - 건조</td>
+					<td>맑음</td>
+					<td>단일로 - 기타</td>
+					<td>승용</td>
+					<td>남</td>
+					<td>76세</td>
+					<td>상해없음</td>
+					<td>보행자</td>
+					<td>여</td>
+					<td>79세</td>
+					<td>중상</td>
+				
+			</tr>
+		
+			<tr>
+				
+				
+					<td class="format-text-excel">2021041600100502</td>
+					<td>2021년  4월 16일 20시</td>
+					<td>금요일</td>
+					<td>세종특별자치시  나성동</td>
+				
+					<td>경상사고</td>
+					<td>0</td>
+					<td>0</td>
+					<td>1</td>
+					<td>0</td>
+					<td>차대사람 - 횡단중</td>
+					<td>보행자보호의무위반</td>
+					<td>포장 - 건조</td>
+					<td>맑음</td>
+					<td>교차로 - 교차로횡단보도내</td>
+					<td>승용</td>
+					<td>남</td>
+					<td>37세</td>
+					<td>상해없음</td>
+					<td>보행자</td>
+					<td>남</td>
+					<td>12세</td>
+					<td>경상</td>
+				
+			</tr>
+		
+			<tr>
+				
+				
+					<td class="format-text-excel">2021042100100573</td>
+					<td>2021년  4월 21일 20시</td>
+					<td>수요일</td>
+					<td>세종특별자치시  보람동</td>
+				
+					<td>경상사고</td>
+					<td>0</td>
+					<td>0</td>
+					<td>1</td>
+					<td>0</td>
+					<td>차대사람 - 보도통행중</td>
+					<td>기타</td>
+					<td>포장 - 건조</td>
+					<td>맑음</td>
+					<td>단일로 - 기타</td>
+					<td>기타불명</td>
+					<td>기타불명</td>
+					<td>미분류</td>
+					<td>기타불명</td>
+					<td>보행자</td>
+					<td>남</td>
+					<td>22세</td>
+					<td>경상</td>
+				
+			</tr>
+		
+			<tr>
+				
+				
+					<td class="format-text-excel">2021042200100064</td>
+					<td>2021년  4월 22일 07시</td>
+					<td>목요일</td>
+					<td>세종특별자치시  금남면</td>
+				
+					<td>경상사고</td>
+					<td>0</td>
+					<td>0</td>
+					<td>1</td>
+					<td>0</td>
+					<td>차대사람 - 횡단중</td>
+					<td>신호위반</td>
+					<td>포장 - 건조</td>
+					<td>맑음</td>
+					<td>교차로 - 교차로부근</td>
+					<td>승용</td>
+					<td>남</td>
+					<td>58세</td>
+					<td>상해없음</td>
+					<td>보행자</td>
+					<td>남</td>
+					<td>64세</td>
+					<td>경상</td>
+				
+			</tr>
+		
+			<tr>
+				
+				
+					<td class="format-text-excel">2021042500100290</td>
+					<td>2021년  4월 25일 15시</td>
+					<td>일요일</td>
+					<td>세종특별자치시  고운동</td>
+				
+					<td>중상사고</td>
+					<td>0</td>
+					<td>1</td>
+					<td>0</td>
+					<td>0</td>
+					<td>차대사람 - 횡단중</td>
+					<td>안전운전불이행</td>
+					<td>포장 - 건조</td>
+					<td>맑음</td>
+					<td>단일로 - 기타</td>
+					<td>승용</td>
+					<td>남</td>
+					<td>45세</td>
+					<td>상해없음</td>
+					<td>보행자</td>
+					<td>여</td>
+					<td>13세</td>
+					<td>중상</td>
+				
+			</tr>
+		
+			<tr>
+				
+				
+					<td class="format-text-excel">2021042900100496</td>
+					<td>2021년  4월 29일 18시</td>
+					<td>목요일</td>
+					<td>세종특별자치시  장군면</td>
+				
+					<td>중상사고</td>
+					<td>0</td>
+					<td>1</td>
+					<td>0</td>
+					<td>0</td>
+					<td>차대사람 - 횡단중</td>
+					<td>안전운전불이행</td>
+					<td>포장 - 건조</td>
+					<td>흐림</td>
+					<td>교차로 - 교차로부근</td>
+					<td>승용</td>
+					<td>남</td>
+					<td>57세</td>
+					<td>상해없음</td>
+					<td>보행자</td>
+					<td>여</td>
+					<td>74세</td>
+					<td>중상</td>
+				
+			</tr>
+		
+			<tr>
+				
+				
+					<td class="format-text-excel">2021050400100630</td>
+					<td>2021년  5월  4일 21시</td>
+					<td>화요일</td>
+					<td>세종특별자치시  고운동</td>
+				
+					<td>중상사고</td>
+					<td>0</td>
+					<td>1</td>
+					<td>0</td>
+					<td>0</td>
+					<td>차대사람 - 보도통행중</td>
+					<td>보행자보호의무위반</td>
+					<td>포장 - 젖음/습기</td>
+					<td>비</td>
+					<td>기타 - 기타</td>
+					<td>이륜</td>
+					<td>남</td>
+					<td>34세</td>
+					<td>상해없음</td>
+					<td>보행자</td>
+					<td>남</td>
+					<td>40세</td>
+					<td>중상</td>
+				
+			</tr>
+		
+			<tr>
+				
+				
+					<td class="format-text-excel">2021050400100717</td>
+					<td>2021년  5월  4일 23시</td>
+					<td>화요일</td>
+					<td>세종특별자치시  금남면</td>
+				
+					<td>경상사고</td>
+					<td>0</td>
+					<td>0</td>
+					<td>1</td>
+					<td>0</td>
+					<td>차대사람 - 차도통행중</td>
+					<td>안전운전불이행</td>
+					<td>포장 - 건조</td>
+					<td>맑음</td>
+					<td>단일로 - 기타</td>
+					<td>승용</td>
+					<td>남</td>
+					<td>63세</td>
+					<td>상해없음</td>
+					<td>보행자</td>
+					<td>남</td>
+					<td>35세</td>
+					<td>경상</td>
+				
+			</tr>
+		
+			<tr>
+				
+				
+					<td class="format-text-excel">2021050500100100</td>
+					<td>2021년  5월  5일 09시</td>
+					<td>수요일</td>
+					<td>세종특별자치시  금남면</td>
+				
+					<td>중상사고</td>
+					<td>0</td>
+					<td>1</td>
+					<td>0</td>
+					<td>0</td>
+					<td>차대사람 - 횡단중</td>
+					<td>안전운전불이행</td>
+					<td>포장 - 건조</td>
+					<td>맑음</td>
+					<td>단일로 - 기타</td>
+					<td>승용</td>
+					<td>남</td>
+					<td>61세</td>
+					<td>상해없음</td>
+					<td>보행자</td>
+					<td>남</td>
+					<td>87세</td>
+					<td>중상</td>
+				
+			</tr>
+		
+			<tr>
+				
+				
+					<td class="format-text-excel">2021050800100475</td>
+					<td>2021년  5월  8일 17시</td>
+					<td>토요일</td>
+					<td>세종특별자치시  금남면</td>
+				
+					<td>경상사고</td>
+					<td>0</td>
+					<td>0</td>
+					<td>1</td>
+					<td>0</td>
+					<td>차대사람 - 기타</td>
+					<td>안전운전불이행</td>
+					<td>포장 - 건조</td>
+					<td>맑음</td>
+					<td>기타 - 기타</td>
+					<td>화물</td>
+					<td>남</td>
+					<td>60세</td>
+					<td>상해없음</td>
+					<td>보행자</td>
+					<td>남</td>
+					<td>69세</td>
+					<td>경상</td>
+				
+			</tr>
+		
+			<tr>
+				
+				
+					<td class="format-text-excel">2021051700100052</td>
+					<td>2021년  5월 17일 06시</td>
+					<td>월요일</td>
+					<td>세종특별자치시  어진동</td>
+				
+					<td>중상사고</td>
+					<td>0</td>
+					<td>1</td>
+					<td>0</td>
+					<td>0</td>
+					<td>차대사람 - 차도통행중</td>
+					<td>안전운전불이행</td>
+					<td>포장 - 건조</td>
+					<td>맑음</td>
+					<td>기타 - 기타</td>
+					<td>승용</td>
+					<td>남</td>
+					<td>54세</td>
+					<td>상해없음</td>
+					<td>보행자</td>
+					<td>여</td>
+					<td>75세</td>
+					<td>중상</td>
+				
+			</tr>
+		
+			<tr>
+				
+				
+					<td class="format-text-excel">2021051700100105</td>
+					<td>2021년  5월 17일 08시</td>
+					<td>월요일</td>
+					<td>세종특별자치시  한솔동</td>
+				
+					<td>중상사고</td>
+					<td>0</td>
+					<td>1</td>
+					<td>0</td>
+					<td>0</td>
+					<td>차대사람 - 횡단중</td>
+					<td>과속</td>
+					<td>포장 - 젖음/습기</td>
+					<td>흐림</td>
+					<td>단일로 - 기타</td>
+					<td>승용</td>
+					<td>남</td>
+					<td>40세</td>
+					<td>상해없음</td>
+					<td>보행자</td>
+					<td>여</td>
+					<td>15세</td>
+					<td>중상</td>
+				
+			</tr>
+		
+			<tr>
+				
+				
+					<td class="format-text-excel">2021051700100373</td>
+					<td>2021년  5월 17일 17시</td>
+					<td>월요일</td>
+					<td>세종특별자치시  소담동</td>
+				
+					<td>중상사고</td>
+					<td>0</td>
+					<td>1</td>
+					<td>0</td>
+					<td>0</td>
+					<td>차대사람 - 횡단중</td>
+					<td>안전운전불이행</td>
+					<td>포장 - 젖음/습기</td>
+					<td>흐림</td>
+					<td>교차로 - 교차로횡단보도내</td>
+					<td>개인형이동수단(PM)</td>
+					<td>남</td>
+					<td>24세</td>
+					<td>상해없음</td>
+					<td>보행자</td>
+					<td>여</td>
+					<td>45세</td>
+					<td>중상</td>
+				
+			</tr>
+		
+			<tr>
+				
+				
+					<td class="format-text-excel">2021052000100400</td>
+					<td>2021년  5월 20일 18시</td>
+					<td>목요일</td>
+					<td>세종특별자치시  조치원읍</td>
+				
+					<td>경상사고</td>
+					<td>0</td>
+					<td>0</td>
+					<td>1</td>
+					<td>0</td>
+					<td>차대사람 - 횡단중</td>
+					<td>안전운전불이행</td>
+					<td>포장 - 젖음/습기</td>
+					<td>비</td>
+					<td>교차로 - 교차로안</td>
+					<td>승합</td>
+					<td>남</td>
+					<td>51세</td>
+					<td>상해없음</td>
+					<td>보행자</td>
+					<td>여</td>
+					<td>26세</td>
+					<td>경상</td>
+				
+			</tr>
+		
+			<tr>
+				
+				
+					<td class="format-text-excel">2021052800100393</td>
+					<td>2021년  5월 28일 16시</td>
+					<td>금요일</td>
+					<td>세종특별자치시  새롬동</td>
+				
+					<td>경상사고</td>
+					<td>0</td>
+					<td>0</td>
+					<td>1</td>
+					<td>0</td>
+					<td>차대사람 - 보도통행중</td>
+					<td>기타</td>
+					<td>포장 - 건조</td>
+					<td>맑음</td>
+					<td>교차로 - 교차로부근</td>
+					<td>이륜</td>
+					<td>남</td>
+					<td>18세</td>
+					<td>상해없음</td>
+					<td>보행자</td>
+					<td>남</td>
+					<td>6세</td>
+					<td>경상</td>
+				
+			</tr>
+		
+			<tr>
+				
+				
+					<td class="format-text-excel">2021052800100586</td>
+					<td>2021년  5월 28일 21시</td>
+					<td>금요일</td>
+					<td>세종특별자치시  장군면</td>
+				
+					<td>중상사고</td>
+					<td>0</td>
+					<td>1</td>
+					<td>0</td>
+					<td>0</td>
+					<td>차대사람 - 기타</td>
+					<td>안전운전불이행</td>
+					<td>포장 - 건조</td>
+					<td>맑음</td>
+					<td>단일로 - 기타</td>
+					<td>승용</td>
+					<td>남</td>
+					<td>51세</td>
+					<td>상해없음</td>
+					<td>보행자</td>
+					<td>남</td>
+					<td>55세</td>
+					<td>중상</td>
+				
+			</tr>
+		
+			<tr>
+				
+				
+					<td class="format-text-excel">2021052900100186</td>
+					<td>2021년  5월 29일 11시</td>
+					<td>토요일</td>
+					<td>세종특별자치시  나성동</td>
+				
+					<td>중상사고</td>
+					<td>0</td>
+					<td>1</td>
+					<td>0</td>
+					<td>0</td>
+					<td>차대사람 - 기타</td>
+					<td>안전운전불이행</td>
+					<td>포장 - 건조</td>
+					<td>맑음</td>
+					<td>단일로 - 기타</td>
+					<td>승용</td>
+					<td>여</td>
+					<td>47세</td>
+					<td>상해없음</td>
+					<td>보행자</td>
+					<td>남</td>
+					<td>48세</td>
+					<td>중상</td>
+				
+			</tr>
+		
+			<tr>
+				
+				
+					<td class="format-text-excel">2021060100100588</td>
+					<td>2021년  6월  1일 21시</td>
+					<td>화요일</td>
+					<td>세종특별자치시  조치원읍</td>
+				
+					<td>경상사고</td>
+					<td>0</td>
+					<td>0</td>
+					<td>1</td>
+					<td>0</td>
+					<td>차대사람 - 기타</td>
+					<td>안전운전불이행</td>
+					<td>비포장 - 건조</td>
+					<td>맑음</td>
+					<td>기타 - 기타</td>
+					<td>승합</td>
+					<td>남</td>
+					<td>40세</td>
+					<td>상해없음</td>
+					<td>보행자</td>
+					<td>여</td>
+					<td>24세</td>
+					<td>경상</td>
+				
+			</tr>
+		
+			<tr>
+				
+				
+					<td class="format-text-excel">2021061100100620</td>
+					<td>2021년  6월 11일 22시</td>
+					<td>금요일</td>
+					<td>세종특별자치시  대평동</td>
+				
+					<td>경상사고</td>
+					<td>0</td>
+					<td>0</td>
+					<td>1</td>
+					<td>0</td>
+					<td>차대사람 - 기타</td>
+					<td>안전운전불이행</td>
+					<td>포장 - 건조</td>
+					<td>맑음</td>
+					<td>단일로 - 교량</td>
+					<td>승용</td>
+					<td>남</td>
+					<td>59세</td>
+					<td>상해없음</td>
+					<td>보행자</td>
+					<td>남</td>
+					<td>34세</td>
+					<td>경상</td>
+				
+			</tr>
+		
+			<tr>
+				
+				
+					<td class="format-text-excel">2021061400100595</td>
+					<td>2021년  6월 14일 23시</td>
+					<td>월요일</td>
+					<td>세종특별자치시  도담동</td>
+				
+					<td>경상사고</td>
+					<td>0</td>
+					<td>0</td>
+					<td>1</td>
+					<td>0</td>
+					<td>차대사람 - 횡단중</td>
+					<td>보행자보호의무위반</td>
+					<td>포장 - 건조</td>
+					<td>맑음</td>
+					<td>교차로 - 교차로횡단보도내</td>
+					<td>이륜</td>
+					<td>남</td>
+					<td>16세</td>
+					<td>상해없음</td>
+					<td>보행자</td>
+					<td>남</td>
+					<td>44세</td>
+					<td>경상</td>
+				
+			</tr>
+		
+			<tr>
+				
+				
+					<td class="format-text-excel">2021061500100158</td>
+					<td>2021년  6월 15일 10시</td>
+					<td>화요일</td>
+					<td>세종특별자치시  조치원읍</td>
+				
+					<td>중상사고</td>
+					<td>0</td>
+					<td>1</td>
+					<td>0</td>
+					<td>0</td>
+					<td>차대사람 - 횡단중</td>
+					<td>보행자보호의무위반</td>
+					<td>포장 - 건조</td>
+					<td>맑음</td>
+					<td>교차로 - 교차로부근</td>
+					<td>화물</td>
+					<td>남</td>
+					<td>64세</td>
+					<td>상해없음</td>
+					<td>보행자</td>
+					<td>여</td>
+					<td>75세</td>
+					<td>중상</td>
+				
+			</tr>
+		
+			<tr>
+				
+				
+					<td class="format-text-excel">2021061600100523</td>
+					<td>2021년  6월 16일 19시</td>
+					<td>수요일</td>
+					<td>세종특별자치시  소정면</td>
+				
+					<td>경상사고</td>
+					<td>0</td>
+					<td>0</td>
+					<td>1</td>
+					<td>0</td>
+					<td>차대사람 - 기타</td>
+					<td>안전운전불이행</td>
+					<td>포장 - 건조</td>
+					<td>맑음</td>
+					<td>주차장 - 주차장</td>
+					<td>승용</td>
+					<td>남</td>
+					<td>70세</td>
+					<td>상해없음</td>
+					<td>보행자</td>
+					<td>남</td>
+					<td>58세</td>
+					<td>경상</td>
+				
+			</tr>
+		
+			<tr>
+				
+				
+					<td class="format-text-excel">2021062100100660</td>
+					<td>2021년  6월 21일 23시</td>
+					<td>월요일</td>
+					<td>세종특별자치시  나성동</td>
+				
+					<td>사망사고</td>
+					<td>1</td>
+					<td>0</td>
+					<td>0</td>
+					<td>0</td>
+					<td>차대사람 - 차도통행중</td>
+					<td>과속</td>
+					<td>포장 - 건조</td>
+					<td>맑음</td>
+					<td>기타 - 기타</td>
+					<td>승용</td>
+					<td>남</td>
+					<td>32세</td>
+					<td>상해없음</td>
+					<td>보행자</td>
+					<td>남</td>
+					<td>45세</td>
+					<td>사망</td>
+				
+			</tr>
+		
+			<tr>
+				
+				
+					<td class="format-text-excel">2021070200100469</td>
+					<td>2021년  7월  2일 17시</td>
+					<td>금요일</td>
+					<td>세종특별자치시  대평동</td>
+				
+					<td>경상사고</td>
+					<td>0</td>
+					<td>0</td>
+					<td>1</td>
+					<td>0</td>
+					<td>차대사람 - 차도통행중</td>
+					<td>안전운전불이행</td>
+					<td>포장 - 건조</td>
+					<td>맑음</td>
+					<td>기타 - 기타</td>
+					<td>승용</td>
+					<td>남</td>
+					<td>50세</td>
+					<td>상해없음</td>
+					<td>보행자</td>
+					<td>여</td>
+					<td>45세</td>
+					<td>경상</td>
+				
+			</tr>
+		
+			<tr>
+				
+				
+					<td class="format-text-excel">2021071300100186</td>
+					<td>2021년  7월 13일 10시</td>
+					<td>화요일</td>
+					<td>세종특별자치시  나성동</td>
+				
+					<td>경상사고</td>
+					<td>0</td>
+					<td>0</td>
+					<td>1</td>
+					<td>0</td>
+					<td>차대사람 - 횡단중</td>
+					<td>보행자보호의무위반</td>
+					<td>포장 - 건조</td>
+					<td>맑음</td>
+					<td>교차로 - 교차로안</td>
+					<td>승용</td>
+					<td>여</td>
+					<td>20세</td>
+					<td>상해없음</td>
+					<td>보행자</td>
+					<td>여</td>
+					<td>44세</td>
+					<td>경상</td>
+				
+			</tr>
+		
+			<tr>
+				
+				
+					<td class="format-text-excel">2021071500100029</td>
+					<td>2021년  7월 15일 04시</td>
+					<td>목요일</td>
+					<td>세종특별자치시  연기면</td>
+				
+					<td>중상사고</td>
+					<td>0</td>
+					<td>1</td>
+					<td>0</td>
+					<td>0</td>
+					<td>차대사람 - 횡단중</td>
+					<td>보행자보호의무위반</td>
+					<td>포장 - 건조</td>
+					<td>맑음</td>
+					<td>기타 - 기타</td>
+					<td>승합</td>
+					<td>남</td>
+					<td>53세</td>
+					<td>상해없음</td>
+					<td>보행자</td>
+					<td>여</td>
+					<td>22세</td>
+					<td>중상</td>
+				
+			</tr>
+		
+			<tr>
+				
+				
+					<td class="format-text-excel">2021071500100388</td>
+					<td>2021년  7월 15일 16시</td>
+					<td>목요일</td>
+					<td>세종특별자치시  장군면</td>
+				
+					<td>경상사고</td>
+					<td>0</td>
+					<td>0</td>
+					<td>1</td>
+					<td>0</td>
+					<td>차대사람 - 기타</td>
+					<td>안전운전불이행</td>
+					<td>포장 - 건조</td>
+					<td>맑음</td>
+					<td>단일로 - 기타</td>
+					<td>승용</td>
+					<td>남</td>
+					<td>53세</td>
+					<td>상해없음</td>
+					<td>보행자</td>
+					<td>남</td>
+					<td>56세</td>
+					<td>경상</td>
+				
+			</tr>
+		
+			<tr>
+				
+				
+					<td class="format-text-excel">2021071600100064</td>
+					<td>2021년  7월 16일 07시</td>
+					<td>금요일</td>
+					<td>세종특별자치시  연기면</td>
+				
+					<td>중상사고</td>
+					<td>0</td>
+					<td>1</td>
+					<td>0</td>
+					<td>0</td>
+					<td>차대사람 - 보도통행중</td>
+					<td>보행자보호의무위반</td>
+					<td>포장 - 건조</td>
+					<td>맑음</td>
+					<td>단일로 - 기타</td>
+					<td>승합</td>
+					<td>남</td>
+					<td>61세</td>
+					<td>상해없음</td>
+					<td>보행자</td>
+					<td>여</td>
+					<td>19세</td>
+					<td>중상</td>
+				
+			</tr>
+		
+			<tr>
+				
+				
+					<td class="format-text-excel">2021071900100149</td>
+					<td>2021년  7월 19일 09시</td>
+					<td>월요일</td>
+					<td>세종특별자치시  도담동</td>
+				
+					<td>경상사고</td>
+					<td>0</td>
+					<td>0</td>
+					<td>1</td>
+					<td>0</td>
+					<td>차대사람 - 횡단중</td>
+					<td>기타</td>
+					<td>포장 - 건조</td>
+					<td>맑음</td>
+					<td>단일로 - 기타</td>
+					<td>승합</td>
+					<td>남</td>
+					<td>64세</td>
+					<td>상해없음</td>
+					<td>보행자</td>
+					<td>여</td>
+					<td>7세</td>
+					<td>경상</td>
+				
+			</tr>
+		
+			<tr>
+				
+				
+					<td class="format-text-excel">2021073100100554</td>
+					<td>2021년  7월 31일 22시</td>
+					<td>토요일</td>
+					<td>세종특별자치시  조치원읍</td>
+				
+					<td>중상사고</td>
+					<td>0</td>
+					<td>1</td>
+					<td>0</td>
+					<td>0</td>
+					<td>차대사람 - 기타</td>
+					<td>기타</td>
+					<td>포장 - 건조</td>
+					<td>맑음</td>
+					<td>단일로 - 기타</td>
+					<td>승용</td>
+					<td>여</td>
+					<td>53세</td>
+					<td>상해없음</td>
+					<td>보행자</td>
+					<td>남</td>
+					<td>58세</td>
+					<td>중상</td>
+				
+			</tr>
+		
+			<tr>
+				
+				
+					<td class="format-text-excel">2021080700100385</td>
+					<td>2021년  8월  7일 17시</td>
+					<td>토요일</td>
+					<td>세종특별자치시  새롬동</td>
+				
+					<td>경상사고</td>
+					<td>0</td>
+					<td>0</td>
+					<td>1</td>
+					<td>0</td>
+					<td>차대사람 - 횡단중</td>
+					<td>안전운전불이행</td>
+					<td>포장 - 건조</td>
+					<td>맑음</td>
+					<td>단일로 - 기타</td>
+					<td>개인형이동수단(PM)</td>
+					<td>남</td>
+					<td>18세</td>
+					<td>상해없음</td>
+					<td>보행자</td>
+					<td>남</td>
+					<td>9세</td>
+					<td>경상</td>
+				
+			</tr>
+		
+			<tr>
+				
+				
+					<td class="format-text-excel">2021081200100400</td>
+					<td>2021년  8월 12일 17시</td>
+					<td>목요일</td>
+					<td>세종특별자치시  조치원읍</td>
+				
+					<td>경상사고</td>
+					<td>0</td>
+					<td>0</td>
+					<td>1</td>
+					<td>0</td>
+					<td>차대사람 - 횡단중</td>
+					<td>안전운전불이행</td>
+					<td>포장 - 건조</td>
+					<td>맑음</td>
+					<td>단일로 - 기타</td>
+					<td>승용</td>
+					<td>여</td>
+					<td>64세</td>
+					<td>상해없음</td>
+					<td>보행자</td>
+					<td>남</td>
+					<td>84세</td>
+					<td>경상</td>
+				
+			</tr>
+		
+			<tr>
+				
+				
+					<td class="format-text-excel">2021082500100535</td>
+					<td>2021년  8월 25일 21시</td>
+					<td>수요일</td>
+					<td>세종특별자치시  나성동</td>
+				
+					<td>중상사고</td>
+					<td>0</td>
+					<td>1</td>
+					<td>0</td>
+					<td>0</td>
+					<td>차대사람 - 차도통행중</td>
+					<td>안전운전불이행</td>
+					<td>포장 - 건조</td>
+					<td>맑음</td>
+					<td>교차로 - 교차로안</td>
+					<td>승용</td>
+					<td>남</td>
+					<td>43세</td>
+					<td>상해없음</td>
+					<td>보행자</td>
+					<td>남</td>
+					<td>43세</td>
+					<td>중상</td>
+				
+			</tr>
+		
+			<tr>
+				
+				
+					<td class="format-text-excel">2021082700100060</td>
+					<td>2021년  8월 27일 07시</td>
+					<td>금요일</td>
+					<td>세종특별자치시  금남면</td>
+				
+					<td>중상사고</td>
+					<td>0</td>
+					<td>1</td>
+					<td>0</td>
+					<td>0</td>
+					<td>차대사람 - 기타</td>
+					<td>안전운전불이행</td>
+					<td>포장 - 건조</td>
+					<td>맑음</td>
+					<td>단일로 - 기타</td>
+					<td>승용</td>
+					<td>남</td>
+					<td>58세</td>
+					<td>상해없음</td>
+					<td>보행자</td>
+					<td>남</td>
+					<td>78세</td>
+					<td>중상</td>
+				
+			</tr>
+		
+			<tr>
+				
+				
+					<td class="format-text-excel">2021082800100236</td>
+					<td>2021년  8월 28일 13시</td>
+					<td>토요일</td>
+					<td>세종특별자치시  나성동</td>
+				
+					<td>중상사고</td>
+					<td>0</td>
+					<td>1</td>
+					<td>0</td>
+					<td>0</td>
+					<td>차대사람 - 횡단중</td>
+					<td>보행자보호의무위반</td>
+					<td>포장 - 건조</td>
+					<td>맑음</td>
+					<td>단일로 - 기타</td>
+					<td>승용</td>
+					<td>남</td>
+					<td>47세</td>
+					<td>상해없음</td>
+					<td>보행자</td>
+					<td>여</td>
+					<td>69세</td>
+					<td>중상</td>
+				
+			</tr>
+		
+			<tr>
+				
+				
+					<td class="format-text-excel">2021082900100285</td>
+					<td>2021년  8월 29일 17시</td>
+					<td>일요일</td>
+					<td>세종특별자치시  전동면</td>
+				
+					<td>중상사고</td>
+					<td>0</td>
+					<td>1</td>
+					<td>0</td>
+					<td>0</td>
+					<td>차대사람 - 기타</td>
+					<td>안전운전불이행</td>
+					<td>포장 - 건조</td>
+					<td>맑음</td>
+					<td>기타 - 기타</td>
+					<td>화물</td>
+					<td>남</td>
+					<td>26세</td>
+					<td>상해없음</td>
+					<td>보행자</td>
+					<td>여</td>
+					<td>79세</td>
+					<td>중상</td>
+				
+			</tr>
+		
+			<tr>
+				
+				
+					<td class="format-text-excel">2021083100100129</td>
+					<td>2021년  8월 31일 09시</td>
+					<td>화요일</td>
+					<td>세종특별자치시  금남면</td>
+				
+					<td>중상사고</td>
+					<td>0</td>
+					<td>1</td>
+					<td>0</td>
+					<td>0</td>
+					<td>차대사람 - 차도통행중</td>
+					<td>안전운전불이행</td>
+					<td>포장 - 건조</td>
+					<td>맑음</td>
+					<td>단일로 - 기타</td>
+					<td>승용</td>
+					<td>여</td>
+					<td>41세</td>
+					<td>상해없음</td>
+					<td>보행자</td>
+					<td>남</td>
+					<td>86세</td>
+					<td>중상</td>
+				
+			</tr>
+		
+			<tr>
+				
+				
+					<td class="format-text-excel">2021090100100235</td>
+					<td>2021년  9월  1일 13시</td>
+					<td>수요일</td>
+					<td>세종특별자치시  다정동</td>
+				
+					<td>경상사고</td>
+					<td>0</td>
+					<td>0</td>
+					<td>1</td>
+					<td>0</td>
+					<td>차대사람 - 횡단중</td>
+					<td>보행자보호의무위반</td>
+					<td>포장 - 건조</td>
+					<td>맑음</td>
+					<td>교차로 - 교차로부근</td>
+					<td>승용</td>
+					<td>여</td>
+					<td>45세</td>
+					<td>상해없음</td>
+					<td>보행자</td>
+					<td>여</td>
+					<td>70세</td>
+					<td>경상</td>
+				
+			</tr>
+		
+			<tr>
+				
+				
+					<td class="format-text-excel">2021090300100173</td>
+					<td>2021년  9월  3일 11시</td>
+					<td>금요일</td>
+					<td>세종특별자치시  어진동</td>
+				
+					<td>경상사고</td>
+					<td>0</td>
+					<td>0</td>
+					<td>1</td>
+					<td>0</td>
+					<td>차대사람 - 기타</td>
+					<td>안전운전불이행</td>
+					<td>포장 - 건조</td>
+					<td>맑음</td>
+					<td>교차로 - 교차로안</td>
+					<td>승용</td>
+					<td>남</td>
+					<td>67세</td>
+					<td>상해없음</td>
+					<td>보행자</td>
+					<td>여</td>
+					<td>30세</td>
+					<td>경상</td>
+				
+			</tr>
+		
+			<tr>
+				
+				
+					<td class="format-text-excel">2021090300100453</td>
+					<td>2021년  9월  3일 18시</td>
+					<td>금요일</td>
+					<td>세종특별자치시  종촌동</td>
+				
+					<td>중상사고</td>
+					<td>0</td>
+					<td>1</td>
+					<td>0</td>
+					<td>0</td>
+					<td>차대사람 - 기타</td>
+					<td>안전운전불이행</td>
+					<td>포장 - 건조</td>
+					<td>맑음</td>
+					<td>기타 - 기타</td>
+					<td>자전거</td>
+					<td>남</td>
+					<td>13세</td>
+					<td>상해없음</td>
+					<td>보행자</td>
+					<td>여</td>
+					<td>1세</td>
+					<td>중상</td>
+				
+			</tr>
+		
+			<tr>
+				
+				
+					<td class="format-text-excel">2021090600100196</td>
+					<td>2021년  9월  6일 10시</td>
+					<td>월요일</td>
+					<td>세종특별자치시  금남면</td>
+				
+					<td>중상사고</td>
+					<td>0</td>
+					<td>1</td>
+					<td>0</td>
+					<td>0</td>
+					<td>차대사람 - 횡단중</td>
+					<td>보행자보호의무위반</td>
+					<td>포장 - 건조</td>
+					<td>맑음</td>
+					<td>교차로 - 교차로횡단보도내</td>
+					<td>화물</td>
+					<td>남</td>
+					<td>59세</td>
+					<td>상해없음</td>
+					<td>보행자</td>
+					<td>여</td>
+					<td>48세</td>
+					<td>중상</td>
+				
+			</tr>
+		
+			<tr>
+				
+				
+					<td class="format-text-excel">2021091200100009</td>
+					<td>2021년  9월 12일 00시</td>
+					<td>일요일</td>
+					<td>세종특별자치시  조치원읍</td>
+				
+					<td>경상사고</td>
+					<td>0</td>
+					<td>0</td>
+					<td>1</td>
+					<td>0</td>
+					<td>차대사람 - 길가장자리구역통행중</td>
+					<td>안전운전불이행</td>
+					<td>포장 - 건조</td>
+					<td>맑음</td>
+					<td>단일로 - 기타</td>
+					<td>승용</td>
+					<td>남</td>
+					<td>59세</td>
+					<td>상해없음</td>
+					<td>보행자</td>
+					<td>남</td>
+					<td>26세</td>
+					<td>경상</td>
+				
+			</tr>
+		
+			<tr>
+				
+				
+					<td class="format-text-excel">2021091500100048</td>
+					<td>2021년  9월 15일 06시</td>
+					<td>수요일</td>
+					<td>세종특별자치시  다정동</td>
+				
+					<td>경상사고</td>
+					<td>0</td>
+					<td>0</td>
+					<td>1</td>
+					<td>0</td>
+					<td>차대사람 - 횡단중</td>
+					<td>보행자보호의무위반</td>
+					<td>포장 - 건조</td>
+					<td>맑음</td>
+					<td>교차로 - 교차로안</td>
+					<td>승용</td>
+					<td>여</td>
+					<td>26세</td>
+					<td>상해없음</td>
+					<td>보행자</td>
+					<td>여</td>
+					<td>67세</td>
+					<td>경상</td>
+				
+			</tr>
+		
+			<tr>
+				
+				
+					<td class="format-text-excel">2021091600100306</td>
+					<td>2021년  9월 16일 13시</td>
+					<td>목요일</td>
+					<td>세종특별자치시  금남면</td>
+				
+					<td>경상사고</td>
+					<td>0</td>
+					<td>0</td>
+					<td>2</td>
+					<td>0</td>
+					<td>차대사람 - 기타</td>
+					<td>안전운전불이행</td>
+					<td>포장 - 건조</td>
+					<td>맑음</td>
+					<td>단일로 - 기타</td>
+					<td>화물</td>
+					<td>남</td>
+					<td>75세</td>
+					<td>상해없음</td>
+					<td>보행자</td>
+					<td>남</td>
+					<td>58세</td>
+					<td>경상</td>
+				
+			</tr>
+		
+			<tr>
+				
+				
+					<td class="format-text-excel">2021091900100366</td>
+					<td>2021년  9월 19일 18시</td>
+					<td>일요일</td>
+					<td>세종특별자치시  연서면</td>
+				
+					<td>중상사고</td>
+					<td>0</td>
+					<td>1</td>
+					<td>0</td>
+					<td>0</td>
+					<td>차대사람 - 길가장자리구역통행중</td>
+					<td>안전운전불이행</td>
+					<td>포장 - 건조</td>
+					<td>맑음</td>
+					<td>기타 - 기타</td>
+					<td>화물</td>
+					<td>남</td>
+					<td>74세</td>
+					<td>상해없음</td>
+					<td>보행자</td>
+					<td>남</td>
+					<td>47세</td>
+					<td>중상</td>
+				
+			</tr>
+		
+			<tr>
+				
+				
+					<td class="format-text-excel">2021092400100188</td>
+					<td>2021년  9월 24일 11시</td>
+					<td>금요일</td>
+					<td>세종특별자치시  조치원읍</td>
+				
+					<td>중상사고</td>
+					<td>0</td>
+					<td>1</td>
+					<td>0</td>
+					<td>0</td>
+					<td>차대사람 - 기타</td>
+					<td>보행자보호의무위반</td>
+					<td>포장 - 건조</td>
+					<td>맑음</td>
+					<td>교차로 - 교차로안</td>
+					<td>승용</td>
+					<td>남</td>
+					<td>30세</td>
+					<td>상해없음</td>
+					<td>보행자</td>
+					<td>여</td>
+					<td>62세</td>
+					<td>중상</td>
+				
+			</tr>
+		
+			<tr>
+				
+				
+					<td class="format-text-excel">2021092800100500</td>
+					<td>2021년  9월 28일 19시</td>
+					<td>화요일</td>
+					<td>세종특별자치시  조치원읍</td>
+				
+					<td>중상사고</td>
+					<td>0</td>
+					<td>1</td>
+					<td>0</td>
+					<td>0</td>
+					<td>차대사람 - 횡단중</td>
+					<td>과속</td>
+					<td>포장 - 젖음/습기</td>
+					<td>비</td>
+					<td>교차로 - 교차로횡단보도내</td>
+					<td>승용</td>
+					<td>남</td>
+					<td>48세</td>
+					<td>상해없음</td>
+					<td>보행자</td>
+					<td>여</td>
+					<td>74세</td>
+					<td>중상</td>
+				
+			</tr>
+		
+			<tr>
+				
+				
+					<td class="format-text-excel">2021092900100477</td>
+					<td>2021년  9월 29일 18시</td>
+					<td>수요일</td>
+					<td>세종특별자치시  새롬동</td>
+				
+					<td>중상사고</td>
+					<td>0</td>
+					<td>1</td>
+					<td>0</td>
+					<td>0</td>
+					<td>차대사람 - 기타</td>
+					<td>보행자보호의무위반</td>
+					<td>포장 - 젖음/습기</td>
+					<td>비</td>
+					<td>교차로 - 교차로횡단보도내</td>
+					<td>승용</td>
+					<td>남</td>
+					<td>34세</td>
+					<td>상해없음</td>
+					<td>보행자</td>
+					<td>여</td>
+					<td>30세</td>
+					<td>중상</td>
+				
+			</tr>
+		
+			<tr>
+				
+				
+					<td class="format-text-excel">2021100200100081</td>
+					<td>2021년 10월  2일 08시</td>
+					<td>토요일</td>
+					<td>세종특별자치시  아름동</td>
+				
+					<td>경상사고</td>
+					<td>0</td>
+					<td>0</td>
+					<td>1</td>
+					<td>0</td>
+					<td>차대사람 - 보도통행중</td>
+					<td>기타</td>
+					<td>포장 - 건조</td>
+					<td>맑음</td>
+					<td>기타 - 기타</td>
+					<td>원동기</td>
+					<td>남</td>
+					<td>43세</td>
+					<td>상해없음</td>
+					<td>보행자</td>
+					<td>여</td>
+					<td>52세</td>
+					<td>경상</td>
+				
+			</tr>
+		
+			<tr>
+				
+				
+					<td class="format-text-excel">2021101000100464</td>
+					<td>2021년 10월 10일 20시</td>
+					<td>일요일</td>
+					<td>세종특별자치시  부강면</td>
+				
+					<td>중상사고</td>
+					<td>0</td>
+					<td>1</td>
+					<td>0</td>
+					<td>0</td>
+					<td>차대사람 - 차도통행중</td>
+					<td>안전운전불이행</td>
+					<td>포장 - 건조</td>
+					<td>맑음</td>
+					<td>단일로 - 기타</td>
+					<td>승용</td>
+					<td>남</td>
+					<td>70세</td>
+					<td>상해없음</td>
+					<td>보행자</td>
+					<td>남</td>
+					<td>60세</td>
+					<td>중상</td>
+				
+			</tr>
+		
+			<tr>
+				
+				
+					<td class="format-text-excel">2021101500100502</td>
+					<td>2021년 10월 15일 18시</td>
+					<td>금요일</td>
+					<td>세종특별자치시  조치원읍</td>
+				
+					<td>중상사고</td>
+					<td>0</td>
+					<td>1</td>
+					<td>0</td>
+					<td>0</td>
+					<td>차대사람 - 횡단중</td>
+					<td>보행자보호의무위반</td>
+					<td>포장 - 젖음/습기</td>
+					<td>비</td>
+					<td>교차로 - 교차로횡단보도내</td>
+					<td>승용</td>
+					<td>남</td>
+					<td>69세</td>
+					<td>상해없음</td>
+					<td>보행자</td>
+					<td>여</td>
+					<td>65세</td>
+					<td>중상</td>
+				
+			</tr>
+		
+			<tr>
+				
+				
+					<td class="format-text-excel">2021101700100409</td>
+					<td>2021년 10월 17일 20시</td>
+					<td>일요일</td>
+					<td>세종특별자치시  종촌동</td>
+				
+					<td>중상사고</td>
+					<td>0</td>
+					<td>1</td>
+					<td>0</td>
+					<td>0</td>
+					<td>차대사람 - 횡단중</td>
+					<td>신호위반</td>
+					<td>포장 - 건조</td>
+					<td>맑음</td>
+					<td>교차로 - 교차로횡단보도내</td>
+					<td>이륜</td>
+					<td>남</td>
+					<td>25세</td>
+					<td>상해없음</td>
+					<td>보행자</td>
+					<td>여</td>
+					<td>47세</td>
+					<td>중상</td>
+				
+			</tr>
+		
+			<tr>
+				
+				
+					<td class="format-text-excel">2021101800100599</td>
+					<td>2021년 10월 18일 19시</td>
+					<td>월요일</td>
+					<td>세종특별자치시  반곡동</td>
+				
+					<td>중상사고</td>
+					<td>0</td>
+					<td>1</td>
+					<td>0</td>
+					<td>0</td>
+					<td>차대사람 - 횡단중</td>
+					<td>보행자보호의무위반</td>
+					<td>포장 - 건조</td>
+					<td>맑음</td>
+					<td>교차로 - 교차로부근</td>
+					<td>승용</td>
+					<td>남</td>
+					<td>70세</td>
+					<td>상해없음</td>
+					<td>보행자</td>
+					<td>남</td>
+					<td>67세</td>
+					<td>중상</td>
+				
+			</tr>
+		
+			<tr>
+				
+				
+					<td class="format-text-excel">2021102000100122</td>
+					<td>2021년 10월 20일 09시</td>
+					<td>수요일</td>
+					<td>세종특별자치시  소담동</td>
+				
+					<td>중상사고</td>
+					<td>0</td>
+					<td>1</td>
+					<td>0</td>
+					<td>0</td>
+					<td>차대사람 - 차도통행중</td>
+					<td>안전운전불이행</td>
+					<td>포장 - 건조</td>
+					<td>맑음</td>
+					<td>교차로 - 교차로안</td>
+					<td>승용</td>
+					<td>여</td>
+					<td>36세</td>
+					<td>상해없음</td>
+					<td>보행자</td>
+					<td>남</td>
+					<td>78세</td>
+					<td>중상</td>
+				
+			</tr>
+		
+			<tr>
+				
+				
+					<td class="format-text-excel">2021102100100102</td>
+					<td>2021년 10월 21일 08시</td>
+					<td>목요일</td>
+					<td>세종특별자치시  고운동</td>
+				
+					<td>중상사고</td>
+					<td>0</td>
+					<td>1</td>
+					<td>0</td>
+					<td>0</td>
+					<td>차대사람 - 횡단중</td>
+					<td>보행자보호의무위반</td>
+					<td>포장 - 건조</td>
+					<td>맑음</td>
+					<td>교차로 - 교차로안</td>
+					<td>승용</td>
+					<td>남</td>
+					<td>53세</td>
+					<td>상해없음</td>
+					<td>보행자</td>
+					<td>여</td>
+					<td>82세</td>
+					<td>중상</td>
+				
+			</tr>
+		
+			<tr>
+				
+				
+					<td class="format-text-excel">2021102100100155</td>
+					<td>2021년 10월 21일 10시</td>
+					<td>목요일</td>
+					<td>세종특별자치시  보람동</td>
+				
+					<td>경상사고</td>
+					<td>0</td>
+					<td>0</td>
+					<td>1</td>
+					<td>0</td>
+					<td>차대사람 - 횡단중</td>
+					<td>보행자보호의무위반</td>
+					<td>포장 - 건조</td>
+					<td>맑음</td>
+					<td>교차로 - 교차로안</td>
+					<td>승용</td>
+					<td>남</td>
+					<td>68세</td>
+					<td>상해없음</td>
+					<td>보행자</td>
+					<td>남</td>
+					<td>12세</td>
+					<td>경상</td>
+				
+			</tr>
+		
+			<tr>
+				
+				
+					<td class="format-text-excel">2021102100100480</td>
+					<td>2021년 10월 21일 18시</td>
+					<td>목요일</td>
+					<td>세종특별자치시  아름동</td>
+				
+					<td>부상신고사고</td>
+					<td>0</td>
+					<td>0</td>
+					<td>0</td>
+					<td>1</td>
+					<td>차대사람 - 차도통행중</td>
+					<td>안전거리미확보</td>
+					<td>포장 - 건조</td>
+					<td>맑음</td>
+					<td>단일로 - 기타</td>
+					<td>승용</td>
+					<td>여</td>
+					<td>25세</td>
+					<td>상해없음</td>
+					<td>보행자</td>
+					<td>남</td>
+					<td>5세</td>
+					<td>부상신고</td>
+				
+			</tr>
+		
+			<tr>
+				
+				
+					<td class="format-text-excel">2021102400100355</td>
+					<td>2021년 10월 24일 17시</td>
+					<td>일요일</td>
+					<td>세종특별자치시  종촌동</td>
+				
+					<td>경상사고</td>
+					<td>0</td>
+					<td>0</td>
+					<td>1</td>
+					<td>0</td>
+					<td>차대사람 - 횡단중</td>
+					<td>보행자보호의무위반</td>
+					<td>포장 - 건조</td>
+					<td>흐림</td>
+					<td>교차로 - 교차로안</td>
+					<td>승용</td>
+					<td>여</td>
+					<td>43세</td>
+					<td>상해없음</td>
+					<td>보행자</td>
+					<td>여</td>
+					<td>10세</td>
+					<td>경상</td>
+				
+			</tr>
+		
+			<tr>
+				
+				
+					<td class="format-text-excel">2021102500100521</td>
+					<td>2021년 10월 25일 18시</td>
+					<td>월요일</td>
+					<td>세종특별자치시  어진동</td>
+				
+					<td>중상사고</td>
+					<td>0</td>
+					<td>1</td>
+					<td>0</td>
+					<td>0</td>
+					<td>차대사람 - 기타</td>
+					<td>안전운전불이행</td>
+					<td>포장 - 건조</td>
+					<td>맑음</td>
+					<td>기타 - 기타</td>
+					<td>승합</td>
+					<td>남</td>
+					<td>74세</td>
+					<td>상해없음</td>
+					<td>보행자</td>
+					<td>여</td>
+					<td>39세</td>
+					<td>중상</td>
+				
+			</tr>
+		
+			<tr>
+				
+				
+					<td class="format-text-excel">2021102700100041</td>
+					<td>2021년 10월 27일 06시</td>
+					<td>수요일</td>
+					<td>세종특별자치시  조치원읍</td>
+				
+					<td>사망사고</td>
+					<td>1</td>
+					<td>0</td>
+					<td>0</td>
+					<td>0</td>
+					<td>차대사람 - 횡단중</td>
+					<td>과속</td>
+					<td>포장 - 젖음/습기</td>
+					<td>안개</td>
+					<td>교차로 - 교차로부근</td>
+					<td>승용</td>
+					<td>남</td>
+					<td>42세</td>
+					<td>기타불명</td>
+					<td>보행자</td>
+					<td>여</td>
+					<td>81세</td>
+					<td>사망</td>
+				
+			</tr>
+		
+			<tr>
+				
+				
+					<td class="format-text-excel">2021102700100101</td>
+					<td>2021년 10월 27일 08시</td>
+					<td>수요일</td>
+					<td>세종특별자치시  나성동</td>
+				
+					<td>부상신고사고</td>
+					<td>0</td>
+					<td>0</td>
+					<td>0</td>
+					<td>1</td>
+					<td>차대사람 - 횡단중</td>
+					<td>보행자보호의무위반</td>
+					<td>포장 - 건조</td>
+					<td>맑음</td>
+					<td>교차로 - 교차로안</td>
+					<td>승용</td>
+					<td>여</td>
+					<td>47세</td>
+					<td>상해없음</td>
+					<td>보행자</td>
+					<td>남</td>
+					<td>15세</td>
+					<td>부상신고</td>
+				
+			</tr>
+		
+			<tr>
+				
+				
+					<td class="format-text-excel">2021102800100427</td>
+					<td>2021년 10월 28일 16시</td>
+					<td>목요일</td>
+					<td>세종특별자치시  조치원읍</td>
+				
+					<td>경상사고</td>
+					<td>0</td>
+					<td>0</td>
+					<td>1</td>
+					<td>0</td>
+					<td>차대사람 - 횡단중</td>
+					<td>안전운전불이행</td>
+					<td>포장 - 건조</td>
+					<td>맑음</td>
+					<td>교차로 - 교차로안</td>
+					<td>승용</td>
+					<td>남</td>
+					<td>73세</td>
+					<td>상해없음</td>
+					<td>보행자</td>
+					<td>남</td>
+					<td>85세</td>
+					<td>경상</td>
+				
+			</tr>
+		
+			<tr>
+				
+				
+					<td class="format-text-excel">2021102800100475</td>
+					<td>2021년 10월 28일 17시</td>
+					<td>목요일</td>
+					<td>세종특별자치시  조치원읍</td>
+				
+					<td>중상사고</td>
+					<td>0</td>
+					<td>1</td>
+					<td>0</td>
+					<td>0</td>
+					<td>차대사람 - 차도통행중</td>
+					<td>보행자보호의무위반</td>
+					<td>포장 - 건조</td>
+					<td>맑음</td>
+					<td>단일로 - 기타</td>
+					<td>승용</td>
+					<td>여</td>
+					<td>47세</td>
+					<td>상해없음</td>
+					<td>보행자</td>
+					<td>여</td>
+					<td>30세</td>
+					<td>중상</td>
+				
+			</tr>
+		
+			<tr>
+				
+				
+					<td class="format-text-excel">2021103100100462</td>
+					<td>2021년 10월 31일 21시</td>
+					<td>일요일</td>
+					<td>세종특별자치시  소정면</td>
+				
+					<td>중상사고</td>
+					<td>0</td>
+					<td>1</td>
+					<td>0</td>
+					<td>0</td>
+					<td>차대사람 - 기타</td>
+					<td>안전운전불이행</td>
+					<td>포장 - 건조</td>
+					<td>흐림</td>
+					<td>교차로 - 교차로안</td>
+					<td>승합</td>
+					<td>남</td>
+					<td>50세</td>
+					<td>상해없음</td>
+					<td>보행자</td>
+					<td>남</td>
+					<td>20세</td>
+					<td>중상</td>
+				
+			</tr>
+		
+			<tr>
+				
+				
+					<td class="format-text-excel">2021110200100067</td>
+					<td>2021년 11월  2일 06시</td>
+					<td>화요일</td>
+					<td>세종특별자치시  보람동</td>
+				
+					<td>부상신고사고</td>
+					<td>0</td>
+					<td>0</td>
+					<td>0</td>
+					<td>1</td>
+					<td>차대사람 - 횡단중</td>
+					<td>안전운전불이행</td>
+					<td>포장 - 건조</td>
+					<td>맑음</td>
+					<td>교차로 - 교차로안</td>
+					<td>승용</td>
+					<td>남</td>
+					<td>56세</td>
+					<td>상해없음</td>
+					<td>보행자</td>
+					<td>남</td>
+					<td>79세</td>
+					<td>부상신고</td>
+				
+			</tr>
+		
+			<tr>
+				
+				
+					<td class="format-text-excel">2021110200100350</td>
+					<td>2021년 11월  2일 15시</td>
+					<td>화요일</td>
+					<td>세종특별자치시  연기면</td>
+				
+					<td>중상사고</td>
+					<td>0</td>
+					<td>1</td>
+					<td>0</td>
+					<td>0</td>
+					<td>차대사람 - 기타</td>
+					<td>안전운전불이행</td>
+					<td>포장 - 건조</td>
+					<td>맑음</td>
+					<td>단일로 - 기타</td>
+					<td>승합</td>
+					<td>남</td>
+					<td>28세</td>
+					<td>상해없음</td>
+					<td>보행자</td>
+					<td>여</td>
+					<td>64세</td>
+					<td>중상</td>
+				
+			</tr>
+		
+			<tr>
+				
+				
+					<td class="format-text-excel">2021111500100523</td>
+					<td>2021년 11월 15일 18시</td>
+					<td>월요일</td>
+					<td>세종특별자치시  조치원읍</td>
+				
+					<td>경상사고</td>
+					<td>0</td>
+					<td>0</td>
+					<td>1</td>
+					<td>0</td>
+					<td>차대사람 - 횡단중</td>
+					<td>안전운전불이행</td>
+					<td>포장 - 건조</td>
+					<td>맑음</td>
+					<td>교차로 - 교차로안</td>
+					<td>승용</td>
+					<td>여</td>
+					<td>52세</td>
+					<td>상해없음</td>
+					<td>보행자</td>
+					<td>남</td>
+					<td>39세</td>
+					<td>경상</td>
+				
+			</tr>
+		
+			<tr>
+				
+				
+					<td class="format-text-excel">2021112100100167</td>
+					<td>2021년 11월 21일 12시</td>
+					<td>일요일</td>
+					<td>세종특별자치시  대평동</td>
+				
+					<td>경상사고</td>
+					<td>0</td>
+					<td>0</td>
+					<td>1</td>
+					<td>0</td>
+					<td>차대사람 - 횡단중</td>
+					<td>안전운전불이행</td>
+					<td>포장 - 건조</td>
+					<td>맑음</td>
+					<td>교차로 - 교차로횡단보도내</td>
+					<td>승용</td>
+					<td>남</td>
+					<td>49세</td>
+					<td>상해없음</td>
+					<td>보행자</td>
+					<td>남</td>
+					<td>29세</td>
+					<td>경상</td>
+				
+			</tr>
+		
+			<tr>
+				
+				
+					<td class="format-text-excel">2021112100100341</td>
+					<td>2021년 11월 21일 17시</td>
+					<td>일요일</td>
+					<td>세종특별자치시  새롬동</td>
+				
+					<td>경상사고</td>
+					<td>0</td>
+					<td>0</td>
+					<td>1</td>
+					<td>0</td>
+					<td>차대사람 - 보도통행중</td>
+					<td>안전운전불이행</td>
+					<td>포장 - 건조</td>
+					<td>맑음</td>
+					<td>교차로 - 교차로횡단보도내</td>
+					<td>개인형이동수단(PM)</td>
+					<td>여</td>
+					<td>17세</td>
+					<td>상해없음</td>
+					<td>보행자</td>
+					<td>남</td>
+					<td>70세</td>
+					<td>경상</td>
+				
+			</tr>
+		
+			<tr>
+				
+				
+					<td class="format-text-excel">2021112200100457</td>
+					<td>2021년 11월 22일 17시</td>
+					<td>월요일</td>
+					<td>세종특별자치시  도담동</td>
+				
+					<td>경상사고</td>
+					<td>0</td>
+					<td>0</td>
+					<td>1</td>
+					<td>0</td>
+					<td>차대사람 - 횡단중</td>
+					<td>보행자보호의무위반</td>
+					<td>포장 - 건조</td>
+					<td>흐림</td>
+					<td>교차로 - 교차로횡단보도내</td>
+					<td>승용</td>
+					<td>여</td>
+					<td>37세</td>
+					<td>상해없음</td>
+					<td>보행자</td>
+					<td>여</td>
+					<td>9세</td>
+					<td>경상</td>
+				
+			</tr>
+		
+			<tr>
+				
+				
+					<td class="format-text-excel">2021112600100599</td>
+					<td>2021년 11월 26일 18시</td>
+					<td>금요일</td>
+					<td>세종특별자치시  다정동</td>
+				
+					<td>경상사고</td>
+					<td>0</td>
+					<td>0</td>
+					<td>1</td>
+					<td>0</td>
+					<td>차대사람 - 횡단중</td>
+					<td>보행자보호의무위반</td>
+					<td>포장 - 건조</td>
+					<td>맑음</td>
+					<td>교차로 - 교차로횡단보도내</td>
+					<td>승용</td>
+					<td>여</td>
+					<td>39세</td>
+					<td>상해없음</td>
+					<td>보행자</td>
+					<td>여</td>
+					<td>26세</td>
+					<td>경상</td>
+				
+			</tr>
+		
+			<tr>
+				
+				
+					<td class="format-text-excel">2021112800100041</td>
+					<td>2021년 11월 28일 02시</td>
+					<td>일요일</td>
+					<td>세종특별자치시  나성동</td>
+				
+					<td>경상사고</td>
+					<td>0</td>
+					<td>0</td>
+					<td>1</td>
+					<td>0</td>
+					<td>차대사람 - 기타</td>
+					<td>안전운전불이행</td>
+					<td>포장 - 건조</td>
+					<td>맑음</td>
+					<td>단일로 - 기타</td>
+					<td>승용</td>
+					<td>여</td>
+					<td>22세</td>
+					<td>상해없음</td>
+					<td>보행자</td>
+					<td>남</td>
+					<td>36세</td>
+					<td>경상</td>
+				
+			</tr>
+		
+			<tr>
+				
+				
+					<td class="format-text-excel">2021112800100217</td>
+					<td>2021년 11월 28일 13시</td>
+					<td>일요일</td>
+					<td>세종특별자치시  조치원읍</td>
+				
+					<td>경상사고</td>
+					<td>0</td>
+					<td>0</td>
+					<td>2</td>
+					<td>0</td>
+					<td>차대사람 - 보도통행중</td>
+					<td>보행자보호의무위반</td>
+					<td>포장 - 건조</td>
+					<td>흐림</td>
+					<td>교차로 - 교차로안</td>
+					<td>승용</td>
+					<td>남</td>
+					<td>43세</td>
+					<td>상해없음</td>
+					<td>보행자</td>
+					<td>남</td>
+					<td>12세</td>
+					<td>경상</td>
+				
+			</tr>
+		
+			<tr>
+				
+				
+					<td class="format-text-excel">2021113000100351</td>
+					<td>2021년 11월 30일 14시</td>
+					<td>화요일</td>
+					<td>세종특별자치시  부강면</td>
+				
+					<td>중상사고</td>
+					<td>0</td>
+					<td>1</td>
+					<td>0</td>
+					<td>0</td>
+					<td>차대사람 - 기타</td>
+					<td>보행자보호의무위반</td>
+					<td>포장 - 젖음/습기</td>
+					<td>비</td>
+					<td>교차로 - 교차로부근</td>
+					<td>화물</td>
+					<td>남</td>
+					<td>63세</td>
+					<td>상해없음</td>
+					<td>보행자</td>
+					<td>여</td>
+					<td>70세</td>
+					<td>중상</td>
+				
+			</tr>
+		
+			<tr>
+				
+				
+					<td class="format-text-excel">2021120600100346</td>
+					<td>2021년 12월  6일 16시</td>
+					<td>월요일</td>
+					<td>세종특별자치시  고운동</td>
+				
+					<td>경상사고</td>
+					<td>0</td>
+					<td>0</td>
+					<td>1</td>
+					<td>0</td>
+					<td>차대사람 - 기타</td>
+					<td>안전운전불이행</td>
+					<td>포장 - 건조</td>
+					<td>맑음</td>
+					<td>기타 - 기타</td>
+					<td>승용</td>
+					<td>여</td>
+					<td>54세</td>
+					<td>상해없음</td>
+					<td>보행자</td>
+					<td>여</td>
+					<td>78세</td>
+					<td>경상</td>
+				
+			</tr>
+		
+			<tr>
+				
+				
+					<td class="format-text-excel">2021120900100498</td>
+					<td>2021년 12월  9일 21시</td>
+					<td>목요일</td>
+					<td>세종특별자치시  장군면</td>
+				
+					<td>경상사고</td>
+					<td>0</td>
+					<td>0</td>
+					<td>1</td>
+					<td>0</td>
+					<td>차대사람 - 차도통행중</td>
+					<td>안전운전불이행</td>
+					<td>포장 - 건조</td>
+					<td>맑음</td>
+					<td>교차로 - 교차로안</td>
+					<td>승용</td>
+					<td>남</td>
+					<td>26세</td>
+					<td>상해없음</td>
+					<td>보행자</td>
+					<td>남</td>
+					<td>19세</td>
+					<td>경상</td>
+				
+			</tr>
+		
+			<tr>
+				
+				
+					<td class="format-text-excel">2021121000100508</td>
+					<td>2021년 12월 10일 18시</td>
+					<td>금요일</td>
+					<td>세종특별자치시  전의면</td>
+				
+					<td>경상사고</td>
+					<td>0</td>
+					<td>0</td>
+					<td>1</td>
+					<td>0</td>
+					<td>차대사람 - 기타</td>
+					<td>안전운전불이행</td>
+					<td>포장 - 건조</td>
+					<td>맑음</td>
+					<td>단일로 - 기타</td>
+					<td>승용</td>
+					<td>여</td>
+					<td>58세</td>
+					<td>상해없음</td>
+					<td>보행자</td>
+					<td>여</td>
+					<td>59세</td>
+					<td>경상</td>
+				
+			</tr>
+		
+			<tr>
+				
+				
+					<td class="format-text-excel">2021121100100217</td>
+					<td>2021년 12월 11일 12시</td>
+					<td>토요일</td>
+					<td>세종특별자치시  어진동</td>
+				
+					<td>경상사고</td>
+					<td>0</td>
+					<td>0</td>
+					<td>1</td>
+					<td>0</td>
+					<td>차대사람 - 기타</td>
+					<td>안전운전불이행</td>
+					<td>포장 - 건조</td>
+					<td>맑음</td>
+					<td>주차장 - 주차장</td>
+					<td>승용</td>
+					<td>여</td>
+					<td>36세</td>
+					<td>상해없음</td>
+					<td>보행자</td>
+					<td>여</td>
+					<td>51세</td>
+					<td>경상</td>
+				
+			</tr>
+		
+			<tr>
+				
+				
+					<td class="format-text-excel">2021121300100404</td>
+					<td>2021년 12월 13일 16시</td>
+					<td>월요일</td>
+					<td>세종특별자치시  어진동</td>
+				
+					<td>경상사고</td>
+					<td>0</td>
+					<td>0</td>
+					<td>1</td>
+					<td>0</td>
+					<td>차대사람 - 기타</td>
+					<td>안전운전불이행</td>
+					<td>포장 - 건조</td>
+					<td>맑음</td>
+					<td>기타 - 기타</td>
+					<td>승합</td>
+					<td>남</td>
+					<td>55세</td>
+					<td>상해없음</td>
+					<td>보행자</td>
+					<td>여</td>
+					<td>31세</td>
+					<td>경상</td>
+				
+			</tr>
+		
+			<tr>
+				
+				
+					<td class="format-text-excel">2021121400100506</td>
+					<td>2021년 12월 14일 20시</td>
+					<td>화요일</td>
+					<td>세종특별자치시  전의면</td>
+				
+					<td>경상사고</td>
+					<td>0</td>
+					<td>0</td>
+					<td>1</td>
+					<td>0</td>
+					<td>차대사람 - 차도통행중</td>
+					<td>교차로운행방법위반</td>
+					<td>포장 - 건조</td>
+					<td>맑음</td>
+					<td>교차로 - 교차로부근</td>
+					<td>승용</td>
+					<td>남</td>
+					<td>61세</td>
+					<td>상해없음</td>
+					<td>보행자</td>
+					<td>여</td>
+					<td>66세</td>
+					<td>경상</td>
+				
+			</tr>
+		
+			<tr>
+				
+				
+					<td class="format-text-excel">2021121700100042</td>
+					<td>2021년 12월 17일 04시</td>
+					<td>금요일</td>
+					<td>세종특별자치시  나성동</td>
+				
+					<td>부상신고사고</td>
+					<td>0</td>
+					<td>0</td>
+					<td>0</td>
+					<td>1</td>
+					<td>차대사람 - 기타</td>
+					<td>안전운전불이행</td>
+					<td>포장 - 건조</td>
+					<td>맑음</td>
+					<td>단일로 - 기타</td>
+					<td>승용</td>
+					<td>남</td>
+					<td>44세</td>
+					<td>상해없음</td>
+					<td>보행자</td>
+					<td>남</td>
+					<td>27세</td>
+					<td>부상신고</td>
+				
+			</tr>
+		
+			<tr>
+				
+				
+					<td class="format-text-excel">2021122200100304</td>
+					<td>2021년 12월 22일 14시</td>
+					<td>수요일</td>
+					<td>세종특별자치시  연서면</td>
+				
+					<td>경상사고</td>
+					<td>0</td>
+					<td>0</td>
+					<td>1</td>
+					<td>0</td>
+					<td>차대사람 - 횡단중</td>
+					<td>보행자보호의무위반</td>
+					<td>포장 - 건조</td>
+					<td>맑음</td>
+					<td>교차로 - 교차로횡단보도내</td>
+					<td>승용</td>
+					<td>여</td>
+					<td>52세</td>
+					<td>상해없음</td>
+					<td>보행자</td>
+					<td>여</td>
+					<td>58세</td>
+					<td>경상</td>
+				
+			</tr>
+		
+			<tr>
+				
+				
+					<td class="format-text-excel">2021122300100335</td>
+					<td>2021년 12월 23일 16시</td>
+					<td>목요일</td>
+					<td>세종특별자치시  보람동</td>
+				
+					<td>경상사고</td>
+					<td>0</td>
+					<td>0</td>
+					<td>1</td>
+					<td>0</td>
+					<td>차대사람 - 횡단중</td>
+					<td>보행자보호의무위반</td>
+					<td>포장 - 건조</td>
+					<td>흐림</td>
+					<td>교차로 - 교차로안</td>
+					<td>승용</td>
+					<td>남</td>
+					<td>74세</td>
+					<td>상해없음</td>
+					<td>보행자</td>
+					<td>여</td>
+					<td>8세</td>
+					<td>경상</td>
+				
+			</tr>
+		
+			<tr>
+				
+				
+					<td class="format-text-excel">2021122600100227</td>
+					<td>2021년 12월 26일 17시</td>
+					<td>일요일</td>
+					<td>세종특별자치시  새롬동</td>
+				
+					<td>중상사고</td>
+					<td>0</td>
+					<td>1</td>
+					<td>0</td>
+					<td>0</td>
+					<td>차대사람 - 기타</td>
+					<td>기타</td>
+					<td>포장 - 건조</td>
+					<td>흐림</td>
+					<td>단일로 - 기타</td>
+					<td>승합</td>
+					<td>남</td>
+					<td>49세</td>
+					<td>상해없음</td>
+					<td>보행자</td>
+					<td>남</td>
+					<td>74세</td>
+					<td>중상</td>
+				
+			</tr>
+		
+			<tr>
+				
+				
+					<td class="format-text-excel">2021122800100512</td>
+					<td>2021년 12월 28일 21시</td>
+					<td>화요일</td>
+					<td>세종특별자치시  다정동</td>
+				
+					<td>경상사고</td>
+					<td>0</td>
+					<td>0</td>
+					<td>1</td>
+					<td>0</td>
+					<td>차대사람 - 횡단중</td>
+					<td>신호위반</td>
+					<td>포장 - 건조</td>
+					<td>흐림</td>
+					<td>교차로 - 교차로횡단보도내</td>
+					<td>이륜</td>
+					<td>남</td>
+					<td>21세</td>
+					<td>상해없음</td>
+					<td>보행자</td>
+					<td>여</td>
+					<td>44세</td>
+					<td>경상</td>
+				
+			</tr>
+		
+			<tr>
+				
+				
+					<td class="format-text-excel">2021122900100539</td>
+					<td>2021년 12월 29일 21시</td>
+					<td>수요일</td>
+					<td>세종특별자치시  소담동</td>
+				
+					<td>경상사고</td>
+					<td>0</td>
+					<td>0</td>
+					<td>1</td>
+					<td>0</td>
+					<td>차대사람 - 횡단중</td>
+					<td>보행자보호의무위반</td>
+					<td>포장 - 건조</td>
+					<td>맑음</td>
+					<td>교차로 - 교차로안</td>
+					<td>승용</td>
+					<td>여</td>
+					<td>40세</td>
+					<td>상해없음</td>
+					<td>보행자</td>
+					<td>여</td>
+					<td>10세</td>
+					<td>경상</td>
+				
+			</tr>
+		
+	</tbody>
+</table>
+
+</body>
+</html>
