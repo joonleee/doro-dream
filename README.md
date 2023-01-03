@@ -1,4 +1,5 @@
 # doro-dream
+# 분석 과정은 [노션에서](https://pogo8.notion.site/DORO-DREAM-02920d6e89f940b5b65bd03fb0301580) 확인해보세요
 
 ## 배경
 
@@ -24,7 +25,7 @@
 
 - 안전 데이터
     - 보행자 교통사고 데이터 ([교통사고정보 개방 시스템](http://taas.koroad.or.kr/web/shp/adi/initOpenApi.do?menuId=WEB_KMP_TAI_TOS))
-    - 자동차 등록 현황 (각 지자체에 받아옴)
+    - 자동차 등록 현황 ([대구광역시 포털](https://www.daegu.go.kr/tra//index.do?menu_id=00000398&menu_link=/icms/bbs/selectBoardArticle.do&bbsId=BBS_00137&nttId=594569&bbsTyCode=BBST03&bbsAttrbCode=BBSA03))
     - 시도별 추정 교통량 데이터 ([View-T](https://viewt.ktdb.go.kr/cong/map/page.do))
     - 교통 혼잡 지표 데이터 ([View-T](https://viewt.ktdb.go.kr/cong/map/page.do))
 - 환경 데이터
